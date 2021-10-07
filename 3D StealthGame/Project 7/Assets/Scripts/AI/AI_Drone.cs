@@ -281,8 +281,6 @@ public class AI_Drone : AI_Agent
 
         }
 
-        //Debug.Log(PickedTask.name + " was chosen." + "Path length was:" + PrevDist.ToString());
-
         return PickedTask;
 
     }
