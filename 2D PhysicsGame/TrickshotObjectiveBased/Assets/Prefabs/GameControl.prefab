@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1468236955625438}
+  m_IsPrefabParent: 1
+--- !u!1 &1468236955625438
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4463028583834844}
+  - component: {fileID: 114823367314829886}
+  m_Layer: 0
+  m_Name: GameControl
+  m_TagString: GameControl
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4463028583834844
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1468236955625438}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.5459976, y: -0.59905356, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114823367314829886
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1468236955625438}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13ef6f1c192e087449c9004a4b8509a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  iShotCounter: 0
+  iCombo: 0
+  x2combo: 0
+  paused: 0
+  LevelName: 1
+  TextGameObject: {fileID: 0}
+  Obj1:
+    ID: 0
+    Level: 0
+    Requirement: 
+  Obj2:
+    ID: 0
+    Level: 0
+    Requirement: 
+  Obj3:
+    ID: 0
+    Level: 0
+    Requirement: 
+  PauseCanvas: {fileID: 0}
+  Objectives: []
+  PlayerColor: {r: 0, g: 0, b: 1, a: 1}
+  ProjectileColor: {r: 1, g: 0, b: 0, a: 1}
+  LineOneColor: {r: 0, g: 0, b: 0, a: 1}
+  LineTwoColor: {r: 0, g: 0, b: 0, a: 1}
+  AimLineColor: {r: 0, g: 0, b: 0, a: 1}
+  AimLineColor2: {r: 0, g: 0, b: 0, a: 1}
+  BallType: {fileID: 0}
+  Default: {fileID: 6200000, guid: 824a7381fe9895443ada5998e7b28c7b, type: 2}
+  BouncyBall: {fileID: 6200000, guid: 0d5c5b49306dae74192ea8a3b6ea63d9, type: 2}
+  BeanBag: {fileID: 6200000, guid: ddcf77161aba36a44a6ff5e53e1af3b7, type: 2}
+  FloatyBall: {fileID: 0}
+  DefaultSprite: {fileID: 21300000, guid: a57b33880922e4f4c9c283052456b2a0, type: 3}
+  BouncyBallSprite: {fileID: 0}
+  BeanBagSprite: {fileID: 21300000, guid: 8138f6f019e8a9947b9ca2a16e98575c, type: 3}
+  FloatyBallSprite: {fileID: 0}
+  BallTypeName: 

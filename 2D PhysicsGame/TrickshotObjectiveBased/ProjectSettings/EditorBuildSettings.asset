@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 45c8dec4e7468e249976d992dca8a3b7
+  - enabled: 1
+    path: Assets/Scenes/Customise ball.unity
+    guid: dfdfa24cdf70640419209e10817de05e
+  - enabled: 1
+    path: Assets/Scenes/ChangeBallType.unity
+    guid: d53200f02e7d96047b0ab974f1fa28a2
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/1.unity
+    guid: 834a5aa39e066c3408c4915c3af38d71
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/2.unity
+    guid: 8286014dd5fc6db4286bace07f23c680
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/3.unity
+    guid: b02da7b2f0ac4784ba448739d2eb68f4
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/4.unity
+    guid: d4df73eb1fe01dc4a9b05172adac3679
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/5.unity
+    guid: a68e8c44678a7c14f82037e7674fab3f
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/6.unity
+    guid: 051db6ac5e387564289f7bb9b69ae8cf
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/7.unity
+    guid: 8193ea9479d864b4bae96decc2810536
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/8.unity
+    guid: 24f0dfd97c248c145a8306a79d007980
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/9.unity
+    guid: 398e805a60215eb449d09a5b6b7fa053
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/10.unity
+    guid: 41f680369275f7946853c2565a4afdf7
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/11.unity
+    guid: a725efbe95e996e49934cd6ab343f86b
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/12.unity
+    guid: e7ffd3c5b160fc64797919e342161c50
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/13.unity
+    guid: 4592811c00bc44b45abd835bc0891886
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/14.unity
+    guid: cad76a04f41cd154a8e7ba325d5a4306
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/15.unity
+    guid: 221469e755bd7904fa4d96b575f46147
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/16.unity
+    guid: f6523177b265214439e9798b32293104
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/17.unity
+    guid: 558f0cb6c27aacf47aa00ae91834e326
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/18.unity
+    guid: 12e127cbe87f10c4389b79e84845256d
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/19.unity
+    guid: 709b8af53d186af429a6194a30af4955
+  - enabled: 1
+    path: Assets/Scenes/SPCampaign/20.unity
+    guid: d76d41d2683ec034393f8853d2734f8c
+  - enabled: 1
+    path: Assets/Scenes/CompleteChapters/CompleteTutorial.unity
+    guid: 5c1070f185787bd4ab883670485a3369
+  - enabled: 1
+    path: Assets/Scenes/CompleteChapters/CompleteChapter2.unity
+    guid: 24c6393c1bb37f8448fcd1d7cff6579c
+  - enabled: 1
+    path: Assets/Scenes/CompleteChapters/CompleteChapter1.unity
+    guid: bd83758377a90db4f8452d28498c0094

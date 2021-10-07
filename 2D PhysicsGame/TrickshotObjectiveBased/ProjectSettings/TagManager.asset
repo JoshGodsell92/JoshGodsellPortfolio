@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Menu
+  - Multiplayer
+  - Option
+  - TimerText
+  - vanishPoint
+  - Player2
+  - Player2Projectile
+  - Projectile
+  - TimerText2
+  - Slider1
+  - Slider2
+  - P1Score
+  - P2Score
+  - GameControl
+  - ScoreTextName
+  - LevelText
+  - ScoreText
+  - ShotText
+  - ShotCounter
+  - ResetButton
+  - PowerUp
+  - Wall
+  - Combo
+  - HighScore
+  - 1Point
+  - 2Points
+  - 3Points
+  - Exit
+  - Entrance
+  - Fan
+  - AntiGrav
+  - Star
+  - Waterfall
+  - Pause
+  - ObjectiveManager
+  - Ice
+  - ComboObj
+  - ShotObj
+  - TargetWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 1708885517
+    locked: 0

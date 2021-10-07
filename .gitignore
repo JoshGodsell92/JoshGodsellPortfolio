@@ -1,8 +1,8 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
+2D PhysicsGame/TrickshotObjectiveBased/[Ll]ibrary/
+2D PhysicsGame/TrickshotObjectiveBased/[Tt]emp/
+2D PhysicsGame/TrickshotObjectiveBased/[Oo]bj/
+2D PhysicsGame/TrickshotObjectiveBased/[Bb]uild/
+2D PhysicsGame/TrickshotObjectiveBased/[Bb]uilds/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
